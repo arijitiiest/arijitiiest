@@ -1,9 +1,13 @@
-### Namaste :pray: /Hi fellow human!!
-### I am Arijit Chowdhury, a Information Technology undergraduate student of IIEST, Shibpur.
+<!-- ###  -->
+<h3 align="center">Namaste :pray:, Hi fellow human!! 👋🏻</h3>
+<p align="center">I am Arijit Chowdhury, a Information Technology undergraduate student of IIEST, Shibpur </p>
 
-
-
-
+- 🌱 I like to commit every once a while
+- 📫 How to reach me:
+  - :arrow_right: [portfolio](https:://arijitiiest.github.io)
+  - :arrow_right: [LinkedIn](https://in.linkedin.com/in/arijitiiest)
+  - :arrow_right: [Mail](mailto:arijitchowdhury8926@gmail.com)
+- 💬 Ask me about anything
 
 
 <!-- - 🔭 I’m currently working on ...
