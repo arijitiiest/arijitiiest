@@ -4,7 +4,7 @@
 
 - 🌱 I like to commit every once a while
 - 📫 How to reach me:
-  - :arrow_right: [portfolio](https:://arijitchowdhury.me)
+  - :arrow_right: [portfolio](https://arijitchowdhury.me)
   - :arrow_right: [LinkedIn](https://in.linkedin.com/in/arijitiiest)
   - :arrow_right: [Mail](mailto:arijitchowdhury8926@gmail.com)
 - 💬 Ask me about anything
